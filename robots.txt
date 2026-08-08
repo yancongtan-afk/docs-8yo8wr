@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-igfcne.kujang138gold.online/sitemap.xml
